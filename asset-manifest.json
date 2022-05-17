@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AliciaChuang/FellowshipUnit7/static/css/main.e048e9da.css",
-    "main.js": "/AliciaChuang/FellowshipUnit7/static/js/main.ff1a97ea.js",
-    "static/js/787.046847d7.chunk.js": "/AliciaChuang/FellowshipUnit7/static/js/787.046847d7.chunk.js",
-    "static/media/logo.svg": "/AliciaChuang/FellowshipUnit7/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/AliciaChuang/FellowshipUnit7/index.html",
-    "main.e048e9da.css.map": "/AliciaChuang/FellowshipUnit7/static/css/main.e048e9da.css.map",
-    "main.ff1a97ea.js.map": "/AliciaChuang/FellowshipUnit7/static/js/main.ff1a97ea.js.map",
-    "787.046847d7.chunk.js.map": "/AliciaChuang/FellowshipUnit7/static/js/787.046847d7.chunk.js.map"
+    "main.css": "/FellowshipUnit7/static/css/main.e048e9da.css",
+    "main.js": "/FellowshipUnit7/static/js/main.257bc75a.js",
+    "static/js/787.046847d7.chunk.js": "/FellowshipUnit7/static/js/787.046847d7.chunk.js",
+    "static/media/logo.svg": "/FellowshipUnit7/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FellowshipUnit7/index.html",
+    "main.e048e9da.css.map": "/FellowshipUnit7/static/css/main.e048e9da.css.map",
+    "main.257bc75a.js.map": "/FellowshipUnit7/static/js/main.257bc75a.js.map",
+    "787.046847d7.chunk.js.map": "/FellowshipUnit7/static/js/787.046847d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e048e9da.css",
-    "static/js/main.ff1a97ea.js"
+    "static/js/main.257bc75a.js"
   ]
 }
